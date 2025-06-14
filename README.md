@@ -71,7 +71,7 @@ Reach out: [LinkedIn](https://www.linkedin.com/in/rahulkrishnaj)
 
 ## 📜 LICENSE
 
-This repository is released under the **MIT License**.  
+This repository is released under the **Apache 2.0 License**.  
 You are free to use, modify, and distribute the code with attribution.
 
 ---
