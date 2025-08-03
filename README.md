@@ -75,6 +75,7 @@ This repository is released under the **Apache 2.0 License**.
 You are free to use, modify, and distribute the code with attribution.
 
 ---
-
-⭐ **Star this repo if it helped you!**  
+Note : 
+The soft copy of detailed version explaning the project and methodology , subjects procured to be used and problems faced and the challenges in NDVI GSI LOCATIONS DATA faced , OSM labels explanation is on process and will be shared soon in the repository , to get updates and projects on AI/ML and mini projects on PYTHON/JUPYTER NOTEBOOKS star the repo and profile mentioned under .[AUTHOR SECTION](## 🧑‍💻 AUTHOR)
+No⭐ **Star this repo if it helped you!**  
 🔁 Fork it to build your own NDVI analysis pipeline!
