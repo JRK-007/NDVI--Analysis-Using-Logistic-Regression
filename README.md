@@ -63,9 +63,8 @@ This repo contains **two core Jupyter Notebooks**:
 ## 🧑‍💻 AUTHOR
 
 **Rahul Krishna J**  
-Student @ Amrita University  
-Contributor to ML & Geospatial Analytics  
-Reach out: [LinkedIn](https://www.linkedin.com/in/rahulkrishnaj)
+Student @ Amrita University    
+Reach out: [LinkedIn](https://www.linkedin.com/in/rahul-krishna-j)
 
 ---
 
